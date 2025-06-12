@@ -57,7 +57,7 @@ To derive meaningful insights from HR data including attrition analysis, diversi
 - Gender balance and diversity visualization
 - Departmental performance metrics and KPIs
 - Year-over-year employee trend analysis
-- Download dataset : https://docs.google.com/spreadsheets/d/1X6uol04fHj4Q87c7h5ceyIFX-9myuyUS/edit?usp=drive_link&ouid=108096931693395678657&rtpof=true&sd=true
+- Download dataset : [Google Sheets - HR data ](https://docs.google.com/spreadsheets/d/1X6uol04fHj4Q87c7h5ceyIFX-9myuyUS/edit?usp=drive_link&ouid=108096931693395678657&rtpof=true&sd=true)
 
 ---
 
